@@ -1,0 +1,315 @@
+{
+  "users": [
+    {
+      "email": "honguyencongsang@gmail.com",
+      "password": "$2a$10$jdSYYi2S8Ra1aVoNZ44oX.RYeQYPY8rxk7Jq05nOSaH0Ad/bdCS8e",
+      "firstname": "Cong Sang",
+      "lastname": "Ho Nguyen",
+      "ability": {
+        "subjects": [],
+        "actions": []
+      },
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$jdSYYi2S8Ra1aVoNZ44oX.RYeQYPY8rxk7Jq05nOSaH0Ad/bdCS8e",
+      "firstname": "Sang",
+      "lastname": "Cong",
+      "ability": {
+        "subjects": [],
+        "actions": []
+      },
+      "id": 2
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "$2a$10$jdSYYi2S8Ra1aVoNZ44oX.RYeQYPY8rxk7Jq05nOSaH0Ad/bdCS8e",
+      "firstname": "Admin",
+      "lastname": "This is",
+      "ability": {
+        "subjects": [],
+        "actions": []
+      },
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "productCode": "cD0ujI6c",
+      "productName": "Khong ai co the lam ban ton thuong tru khi ban cho phep",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/0c/ff/1f/091c739d2cc4c1b2a3a9c5025930adcc.jpg",
+      "quantity": "12",
+      "createDate": "10/19/2022",
+      "balance": "140000",
+      "status": "INPROCESSING",
+      "rating": 0,
+      "id": 2
+    },
+    {
+      "productCode": "stu4Dtki",
+      "productName": "Sach den",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/12/18/9b373144a630d650e38325e7127a6349.jpg",
+      "quantity": 0,
+      "createDate": "10/10/2022",
+      "balance": 120000,
+      "status": "OUTOFSTOCK",
+      "rating": 0,
+      "id": 3
+    },
+    {
+      "productCode": "KNmklYeG",
+      "productName": "Lam sach tam hon",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/c1/48/f657027db177f2c205bc46fb728caa63.jpg",
+      "quantity": 0,
+      "createDate": "10/12/2022",
+      "balance": 115000,
+      "status": "INPROCESSING",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "productCode": "giElh1ii",
+      "productName": "Toi uoc minh chua tung duoc sinh ra",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/d3/e4/a5/86785ac0765f58eba8d79dd6de274f14.jpg",
+      "quantity": 20,
+      "createDate": "10/19/2022",
+      "balance": "220000",
+      "status": "INPROCESSING",
+      "rating": 3,
+      "id": 5
+    },
+    {
+      "productCode": "9kCX4Etd",
+      "productName": "Nguoi trong muon nghe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/58/89/8f/735764c5e6d8816a408e934ef2435a2c.png",
+      "quantity": 10,
+      "createDate": "10/19/2022",
+      "balance": 200000,
+      "status": "INSTOCK",
+      "rating": 0,
+      "id": 6
+    },
+    {
+      "productCode": "IHDXAKmu",
+      "productName": "Nghanh IT co gi?",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/6e/6f/e0/40d33719f67c9df7ea34d2bac9e52320.jpg",
+      "quantity": "12",
+      "createDate": "10/19/2022",
+      "balance": 250000,
+      "status": "INSTOCK",
+      "rating": 5,
+      "id": 7
+    },
+    {
+      "productCode": "q6YSV7yt",
+      "productName": "Cuon sach hoan hao ve ngon ngu co the",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/e9/0c/3008cc78076b1ac7240c55bc014580d7.jpg",
+      "quantity": 0,
+      "createDate": "10/19/2022",
+      "balance": 250000,
+      "status": "INPROCESSING",
+      "rating": 2,
+      "id": 8
+    },
+    {
+      "productCode": "h4v3If0i",
+      "productName": "Hom nay phai mo mang",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/a2/56/95/7be009f2e04ae1812db444e7543e905b.jpg",
+      "quantity": 0,
+      "createDate": "10/19/2022",
+      "balance": 100000,
+      "status": "OUTOFSTOCK",
+      "rating": 4,
+      "id": 9
+    },
+    {
+      "productCode": "sxGfUwKO",
+      "productName": "Thay doi ti hon, hieu qua bat ngo",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/32/b3/085ee546b06b792e847edd88b02b8f15.jpg",
+      "quantity": "2",
+      "createDate": "2022-10-30T17:00:00.000Z",
+      "balance": "120000",
+      "status": "OUTOFSTOCK",
+      "rating": 5,
+      "id": 11
+    },
+    {
+      "productCode": "5iuBO79b",
+      "productName": "Quang ganh lo va vui song",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/f4/ca/d2/1d6227cf2b73086b3f946e442e2dc49a.jpg",
+      "quantity": 0,
+      "createDate": "10/19/2022",
+      "balance": 110000,
+      "status": "INPROCESSING",
+      "rating": 3,
+      "id": 12
+    },
+    {
+      "productCode": "Tq9pLcxs",
+      "productName": "Ren luyen tu duy phan bien",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg",
+      "quantity": 18,
+      "createDate": "10/19/2022",
+      "balance": 110000,
+      "status": "INSTOCK",
+      "rating": 4,
+      "id": 13
+    },
+    {
+      "productCode": "udw7GERM",
+      "productName": "1 ngay bang 48 gio",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/77/43/c6/4a6f7f0d38eb4175180d4298843e7020.jpg",
+      "quantity": 18,
+      "createDate": "10/19/2022",
+      "balance": 150000,
+      "status": "INPROCESSING",
+      "rating": 0,
+      "id": 14
+    },
+    {
+      "productCode": "eWwz9vhY",
+      "productName": "Tu duy nhanh va cham",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/cc/bd/49b69e229cdfd844654923445d082ba1.jpg",
+      "quantity": 5,
+      "createDate": "10/19/2022",
+      "balance": 150000,
+      "status": "INSTOCK",
+      "rating": 0,
+      "id": 15
+    },
+    {
+      "productCode": "SrKMiNQe",
+      "productName": "Combo Toan thu tam li hoc, Tu dien tam ly",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/a9/38/1c/c0bfa19eb1b44afb96be5a4082f8c99c.jpg",
+      "quantity": 10,
+      "createDate": "10/19/2022",
+      "balance": "120000",
+      "status": "OUTOFSTOCK",
+      "rating": 0,
+      "id": 16
+    },
+    {
+      "productCode": "NdYnTXa6",
+      "productName": "Luat hap dan",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/16/7f/b4/3acce05b023d7b7d2ede09ffeed93077.jpg",
+      "quantity": 10,
+      "createDate": "10/19/2022",
+      "balance": 200000,
+      "status": "INSTOCK",
+      "rating": 5,
+      "id": 17
+    },
+    {
+      "productCode": "ozHHmDp8",
+      "productName": "Hanh trinh ve phuong dong",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/25/5a/d4/fc46af47ce7a83545a7f5c1344d260b7.jpg",
+      "quantity": "2",
+      "createDate": "10/19/2022",
+      "balance": 200000,
+      "status": "INSTOCK",
+      "rating": 5,
+      "id": 18
+    },
+    {
+      "productCode": "ozHHmDp8",
+      "productName": "Kha nang sap xep cong viec",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/e3/60/a07619605315bd3d682cfba54c5a2504.jpg",
+      "quantity": 0,
+      "createDate": "10/19/2022",
+      "balance": 110000,
+      "status": "OUTOFSTOCK",
+      "rating": 0,
+      "id": 19
+    },
+    {
+      "productCode": "UNusk4Z7",
+      "productName": "Cuoc cach mang rau sach",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/34/68/da/d61358d7eb25b78b5fab2a96535275cd.jpg",
+      "quantity": 0,
+      "createDate": "10/20/2022",
+      "balance": 110000,
+      "status": "OUTOFSTOCK",
+      "rating": 0,
+      "id": 20
+    },
+    {
+      "productCode": "hylxrD8n",
+      "productName": "Thao tung tam ly 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/90/49/97/ec88ab408c1997378344486c94dbac40.jpg",
+      "quantity": 5,
+      "createDate": "10/19/2022",
+      "balance": "160000",
+      "status": "INSTOCK",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "productCode": "vFSzGS1n",
+      "productName": "Cho di va nhan lai",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/a9/d4/f0/c6cddbe8bc813582cd925251e440d3e8.jpg",
+      "quantity": "6",
+      "createDate": "2022-10-22T17:00:00.000Z",
+      "balance": "120000",
+      "status": "INPROCESSING",
+      "rating": "2",
+      "id": 21
+    },
+    {
+      "productCode": "LZ9d9ig2",
+      "productName": "Mindset",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/35/00/8a/6c1e32dc6b860007e6027f2a632c14d5.jpg",
+      "quantity": "5",
+      "createDate": "2022-10-23T17:00:00.000Z",
+      "balance": "160000",
+      "status": "OUTOFSTOCK",
+      "rating": 0,
+      "id": 22
+    },
+    {
+      "productCode": "oCSYX1Eq",
+      "productName": "Clean code",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/af/46/50/b15e240de4f0d7d4c2289c29f40d4005.jpg",
+      "quantity": "10",
+      "createDate": "2022-10-22T17:00:00.000Z",
+      "balance": "150000",
+      "status": "INSTOCK",
+      "rating": 0,
+      "id": 23
+    },
+    {
+      "productCode": "qa8JEUrf",
+      "productName": "Chuyen doi van menh",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "productImage": "https://salt.tikicdn.com/cache/280x280/ts/product/65/e7/47/4d79be6f69610c56e5da720ea80c5007.png",
+      "quantity": "5",
+      "createDate": "2022-10-23T17:00:00.000Z",
+      "balance": "199000",
+      "status": "INSTOCK",
+      "rating": 0,
+      "id": 24
+    }
+  ]
+}

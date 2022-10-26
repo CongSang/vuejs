@@ -1,0 +1,53 @@
+@import "./base.css";
+
+a {
+  text-decoration: none;
+}
+
+.topbar-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  color: #6c757d;
+  border-radius: 50% !important;
+  width: 3rem;
+  height: 3rem;
+  cursor: pointer !important;
+  transition: background-color .2s;
+}
+
+.topbar-button:hover {
+  background-color: var(--surface-hover);
+}
+
+.card {
+  background-color: var(--surface-card);
+  padding: 1.5rem;
+  color: var(--surface-900);
+  margin-bottom: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.02), 0 0 2px rgba(0, 0, 0, 0.05),
+    0 1px 4px rgba(0, 0, 0, 0.08) !important;
+}
+
+@media (max-width: 991px) {
+  .card {
+    border-radius: 0;
+  }
+}
+
+.line-clamp-1,
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.line-clamp-1 {
+  -webkit-line-clamp: 1;
+}
+
+.line-clamp-2 {
+  -webkit-line-clamp: 2;
+}
